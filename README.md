@@ -10,8 +10,9 @@
 
 You can email me by my email on GitHub or find me through links below:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Kai_Sheng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-sheng-c-313351196)](https://www.linkedin.com/in/kai-sheng-c-313351196)
-- [kaisheng.dev](https://kaisheng.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kai_Sheng-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-sheng-c-313351196)](https://www.linkedin.com/in/kai-sheng-c-313351196)
+[![Twitter Badge](https://img.shields.io/badge/-exglade-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/exglade)](https://twitter.com/exglade)
+[![Website Badge](https://img.shields.io/badge/-kaisheng.dev-orange?style=for-the-badge&logo=website&logoColor=white&link=https://kaisheng.dev)](https://kaisheng.dev)
 
 <!-- [![Kai Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=exglade&theme=radical)](https://github.com/exglade/github-readme-stats) -->
 <!--
