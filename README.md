@@ -6,9 +6,9 @@ I juggle different techs for different problems, e.g., React for web frontend, P
 
 _**I’m currently looking for my next adventure — leadership or high-impact IC — where I can make an impact!**_
 
-[![Website Badge](https://img.shields.io/badge/-kaisheng.dev-ea4335?style=flat-square&logo=Google-Chrome&logoColor=white)](https://kaisheng.dev)
 [![Linkedin Badge](https://img.shields.io/badge/in-Kai_Sheng-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/ckaisheng/)
-[![Twitter Badge](https://img.shields.io/badge/-exglade-black?style=flat-square&logo=X&logoColor=white)](https://x.com/exglade)
+[![Website Badge](https://img.shields.io/badge/-kaisheng.dev-ea4335?style=flat-square&logo=Google-Chrome&logoColor=white)](https://kaisheng.dev)
+[![X Badge](https://img.shields.io/badge/-exglade-black?style=flat-square&logo=X&logoColor=white)](https://x.com/exglade)
 
 ## 🧠 Kanban Board Overview
 
