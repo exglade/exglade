@@ -1,8 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=exglade.exglade)
-
 ## 👋 It's me, Kai!
 
-- 🏯 Part of the [HealthMetrics](https://www.healthmetrics.com) family.
 - 🎮 Typical nerd for Games, Anime, Manga
 - 👨‍💻 _**C#, HTML, JavaScript, Azure, .NET, .NET Core, SQL Server, Bootstrap, Visual Studio, Visual Studio Code, CSS,**_ TypeScript, C, C++, PostgreSQL, Mongo, GCP, Tensorflow, Python, PHP, Java, Agile, Scrum, Kanban, ActionScript, Angular/JS, Firebase, Android, Eclipse, NetBeans, and more.
 
