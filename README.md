@@ -1,6 +1,14 @@
-# 👋 你好, name saya Kai です
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> 你好, name saya Kai です
 
-Director of Engineering in name. Engineer at heart. Currently looking for opportunities; [hit me up!](#connect)
+_Director of Engineering in name. Engineer at heart._ I enjoy the thrill of solving problems (so I rock climb🧗 and game🕹️).
+
+I juggle different techs for different problems, e.g., React for web frontend, Python for Data/AI, C# or TypeScript for web backend, C++ (looking at Rust) for high-perf systems, monolith for simple projects, distributed or micro-service for complex systems; "Horses for Courses" ✅. Won't bring a sledgehammer to crack a nut 🥜.
+
+_**I’m currently looking for my next adventure — leadership or high-impact IC — where I can make an impact!**_
+
+[![Website Badge](https://img.shields.io/badge/-kaisheng.dev-ea4335?style=flat-square&logo=Google-Chrome&logoColor=white)](https://kaisheng.dev)
+[![Linkedin Badge](https://img.shields.io/badge/in-Kai_Sheng-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/ckaisheng/)
+[![Twitter Badge](https://img.shields.io/badge/-exglade-black?style=flat-square&logo=X&logoColor=white)](https://x.com/exglade)
 
 ## 🧠 Kanban Board Overview
 
@@ -23,27 +31,4 @@ Director of Engineering in name. Engineer at heart. Currently looking for opport
 `Firebase` `PostgreSQL` `Android` `iOS` `AngularJS` `React` `Angular`
 `Astro` `Tailwind` `Tensorflow` `Bootstrap` `Agile` `Scrum` `Kanban`
 `ActionScript` `VS Code` `Visual Studio` `Eclipse` `NetBeans`
-`GitHub Copilot` `Codex` `OpenCode` ... out of token; always exploring
-
-## 📫 Connect
-
-I’m currently open to opportunities — leadership or high-impact IC — where I can make an impact!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Kai_Sheng-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kai-sheng-c-313351196)
-[![Twitter Badge](https://img.shields.io/badge/-exglade-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/exglade)
-[![Website Badge](https://img.shields.io/badge/-kaisheng.dev-orange?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://kaisheng.dev)
-
-<!--
-**exglade/exglade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`GitHub Copilot` `Codex` `OpenCode` ... end of context window; always exploring
