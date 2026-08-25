@@ -2,7 +2,7 @@
 
 _Software engineer. Engineering leader. Professional rabbit-hole explorer._ I enjoy the thrill of solving problems (so I rock climb🧗 and game🕹️).
 
-I juggle different techs for different problems, e.g., React for web frontend, Python for Data/AI, C# or TypeScript for web backend, C++ (looking at Rust) for high-perf systems, monolith for simple projects, distributed or microservice for complex systems; "Horses for Courses" ✅. Won't bring a sledgehammer to crack a nut 🥜.
+I like using whatever fits the problem — from boring monoliths to distributed systems, and whatever language gets the job done. Won't bring a sledgehammer to crack a nut 🥜.
 
 _**Open to interesting engineering problems — IC, technical leadership, or somewhere in between.**_
 
